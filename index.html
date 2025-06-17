@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Bomberman</title>
+  </head>
+  <body>
+    <header><h1>Bomberman</h1></header>
+    <main>
+      <div class="background"></div>
+
+      <section>
+        <div class="score"><h2>Score</h2></div>
+        <div class="bomberman"></div>
+      </section>
+
+      <script src="./script.js"></script>
+
+      <svg
+        width="32"
+        height="32"
+        viewBox="0 0 64 64"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <!-- Casque -->
+        <rect
+          x="16"
+          y="6"
+          width="32"
+          height="24"
+          rx="6"
+          ry="6"
+          fill="#e0e6f8"
+          stroke="#9ab8f8"
+          stroke-width="2"
+        />
+        <!-- Visor -->
+        <rect
+          x="22"
+          y="14"
+          width="20"
+          height="8"
+          rx="3"
+          ry="3"
+          fill="#82cfff"
+          stroke="#4fb8ff"
+          stroke-width="1"
+        />
+        <!-- Corps -->
+        <polygon
+          points="20,30 44,30 52,56 12,56"
+          fill="#d9e6ff"
+          stroke="#9ab8f8"
+          stroke-width="2"
+        />
+        <!-- Bras -->
+        <rect
+          x="6"
+          y="32"
+          width="12"
+          height="10"
+          rx="3"
+          ry="3"
+          fill="#82cfff"
+          stroke="#4fb8ff"
+          stroke-width="2"
+        />
+        <rect
+          x="46"
+          y="32"
+          width="12"
+          height="10"
+          rx="3"
+          ry="3"
+          fill="#82cfff"
+          stroke="#4fb8ff"
+          stroke-width="2"
+        />
+        <!-- Jambes -->
+        <rect
+          x="20"
+          y="56"
+          width="10"
+          height="8"
+          rx="2"
+          ry="2"
+          fill="#a3b5ff"
+          stroke="#6f7fff"
+          stroke-width="1.5"
+        />
+        <rect
+          x="34"
+          y="56"
+          width="10"
+          height="8"
+          rx="2"
+          ry="2"
+          fill="#a3b5ff"
+          stroke="#6f7fff"
+          stroke-width="1.5"
+        />
+        <!-- Détails lumineux -->
+        <circle cx="32" cy="18" r="2" fill="#4fb8ff" />
+        <circle cx="28" cy="40" r="1.5" fill="#4fb8ff" />
+        <circle cx="36" cy="40" r="1.5" fill="#4fb8ff" />
+      </svg>
+    </main>
+  </body>
+</html>

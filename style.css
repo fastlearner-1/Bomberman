@@ -1,22 +1,23 @@
+/* BODY */
 body {
   font-family: fantasy;
-  background: linear-gradient(
-    135deg,
-    #0f0c29,
-    #302b63,
-    #24243e,
-    #5f2c82,
-    #6a11cb
-  );
-  background-size: 400% 400%;
-  animation: gradientShift 10s ease infinite;
+  background-image: url(./land.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
+
+/* HEADER */
 header {
 }
+
 h1 {
   text-align: center;
   color: white;
+  text-shadow: 2px 2px 8px #000000; /* Ombre noire */
 }
+
+/* MAIN */
 main {
   display: flex;
   flex-wrap: wrap;
@@ -24,19 +25,36 @@ main {
 }
 
 .bomberman {
-  -webkit-box-shadow: 2px 2px 11px 9px rgba(231, 58, 255, 0.81);
-  box-shadow: 2px 2px 11px 9px rgba(231, 58, 255, 0.81);
   padding: 15px;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-
   height: 600px;
   width: 800px;
   display: grid;
   grid-template-columns: repeat(13, 1fr);
   grid-template-rows: repeat(13, 1fr);
   gap: 10px;
+
+  border: 5px solid transparent;
+  border-radius: 8px;
+
+  /* Fond animé */
+  background: linear-gradient(
+        135deg,
+        #7365ef,
+        #6e62f2,
+        #4423c7,
+        #944bc5,
+        #6464f2
+      )
+      padding-box,
+    linear-gradient(135deg, #f2b0ce, #cf85e0, #f879c1, #c57cf5, #ed79bf)
+      border-box;
+
+  background-origin: padding-box, border-box;
+  background-clip: padding-box, border-box;
+  background-size: 300% 300%, 300% 300%;
+
+  animation: smoothGradient 20s ease-in-out infinite,
+    borderShift 7s ease-in-out infinite;
 }
 
 .cell {
@@ -47,16 +65,28 @@ main {
   justify-content: center;
   align-items: center;
 }
+
 .cell:hover {
   transform: scale(1.1);
   border-radius: 5px;
 }
 
-@keyframes gradientShift {
+@keyframes smoothGradient {
   0% {
     background-position: 0% 50%;
   }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
 
+@keyframes borderShift {
+  0% {
+    background-position: 0% 50%;
+  }
   50% {
     background-position: 100% 50%;
   }
@@ -70,11 +100,79 @@ section {
   flex-flow: row wrap;
   gap: 100px;
   margin-right: 200px;
+  align-items: flex-start;
 }
+
 .score {
-  border: solid white 2px;
+  border: solid white 5px;
+  border-radius: 25px;
   width: 200px;
-  height: 500px;
+  height: 630px;
   text-align: center;
   color: white;
+}
+
+h2 {
+  text-shadow: 2px 2px 8px #000000; /* Ombre noire */
+  margin-bottom: 20px;
+  color: white;
+}
+
+.player {
+  margin-bottom: 25px;
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.player h3 {
+  color: white;
+  text-shadow: 1px 1px 4px #000000; /* Ombre noire */
+  margin: 0 0 10px 0;
+  font-size: 16px;
+}
+
+.player-score {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  margin: 5px 0;
+  text-shadow: 2px 2px 6px #000000; /* Ombre noire */
+}
+
+.player-lives {
+  font-size: 18px;
+  margin: 5px 0;
+  color: white;
+  text-shadow: 1px 1px 3px #000000; /* Ombre noire */
+}
+
+.game-info {
+  margin-top: 30px;
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 15px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.game-info h3 {
+  color: white;
+  text-shadow: 1px 1px 4px #000000; /* Ombre noire */
+  margin: 0 0 8px 0;
+  font-size: 16px;
+}
+
+.level,
+.time {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin: 5px 0 15px 0;
+  text-shadow: 2px 2px 6px #000000; /* Ombre noire */
+}
+#bomberman-svg {
+  grid-column: 1;
+  grid-row: 1;
+  place-self: center;
 }

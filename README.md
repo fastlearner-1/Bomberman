@@ -4,7 +4,7 @@
 
     - [X] Le terrain
     - [] Les obstacles (fixe ou random)
-    - [] Le joueur (déplacement flèche directionnelles)
+    - [X] Le joueur (déplacement flèche directionnelles)
     - [] Ennemis (déplacement aléatoire ? collisions avec les obstacles ?
 
 
@@ -16,21 +16,15 @@
 
     - [ ] KEYBIND
 
-    - [ ] DEPLACEMENT DU PERSONNAGE 1 AVEC ZQSD -
-    - [ ] DEPLACEMENT DU PERSONNAGE 2 AVEC FLECHES
-    - [ ] On largue la bombe avec A pour le personnage 1
-    - [ ] On largue la bombe avec E pour le personnage B
+    - [X] DEPLACEMENT DU PERSONNAGE 1 AVEC ZQSD
+    - [X] DEPLACEMENT DU PERSONNAGE 2 AVEC FLECHES
+    - [ ] On attaque avec A E R pour le personnage 1
+    - [ ] On attaque avec espace pour le personnage 2
 
-    - [ ] POSITION
+    - [X] POSITION
 
     - [ ] PERSONNAGES
-    - [ ] Les personnages ne peuvent pas avoir la meme position
-    - [ ] Les personnages et la bombe ne peuvent pas avoir la meme position
+    - [X] Les personnages ne peuvent pas avoir la meme position
     - [ ] Les personnages et les obstacle ne peuvent pas avoir la meme position
-
-    - [ ] BOMBES
-    - [ ] La bombe ne peut pas avoir la meme position que les obstacles, les pnj et les monstres
-
-    - [ ] OBSTACLE
-    - [ ] Les obstacles et la bombe ne peuvent pas avoir la meme position
-    - [ ] Les obstacles et les personnages ne peuvent pas avoir la meme position
+    - [ ] Le personnage 1 doit avoir 3 compétences
+    - [ ] Le personnage 2 doit avoir 1 compétences et un passif

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 800" style="enable-background:new 0 0 1200 800;" xml:space="preserve">
+<g id="Background">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="600" y1="-3.2032" x2="600" y2="782.1344">
+		<stop  offset="0" style="stop-color:#0C044D"/>
+		<stop  offset="0.5" style="stop-color:#140936"/>
+		<stop  offset="0.7117" style="stop-color:#12083C"/>
+		<stop  offset="0.9882" style="stop-color:#0C044C"/>
+		<stop  offset="1" style="stop-color:#0C044D"/>
+	</linearGradient>
+	<polygon style="fill:url(#SVGID_1_);" points="1200,0 0,0 0,800 1199.912,800 	"/>
+</g>
+<g id="Object">
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-808.511" y="543.3" width="2817.023" height="402.246">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	
+		<mask maskUnits="userSpaceOnUse" x="-808.511" y="543.3" width="2817.023" height="402.246" id="SVGID_00000099630075248627936690000011718565992491343285_">
+		<g style="filter:url(#Adobe_OpacityMaskFilter);">
+			
+				<linearGradient id="SVGID_00000085213238864434795270000011397062060228991420_" gradientUnits="userSpaceOnUse" x1="600" y1="800.9009" x2="600" y2="580.0247">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.057" style="stop-color:#E4E4E4"/>
+				<stop  offset="0.1952" style="stop-color:#A9A9A9"/>
+				<stop  offset="0.3331" style="stop-color:#757575"/>
+				<stop  offset="0.4671" style="stop-color:#4B4B4B"/>
+				<stop  offset="0.5967" style="stop-color:#2A2A2A"/>
+				<stop  offset="0.7206" style="stop-color:#131313"/>
+				<stop  offset="0.8364" style="stop-color:#050505"/>
+				<stop  offset="0.936" style="stop-color:#000000"/>
+			</linearGradient>
+			<rect y="575" style="fill:url(#SVGID_00000085213238864434795270000011397062060228991420_);" width="1200" height="225"/>
+		</g>
+	</mask>
+	<g style="mask:url(#SVGID_00000099630075248627936690000011718565992491343285_);">
+		<g>
+			<defs>
+				<rect id="SVGID_00000121980125505754704880000015859670880133445030_" y="543.3" width="1200" height="256.7"/>
+			</defs>
+			<clipPath id="SVGID_00000122704299662849004230000006575499651890144177_">
+				<use xlink:href="#SVGID_00000121980125505754704880000015859670880133445030_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<radialGradient id="SVGID_00000169523855716085795020000000896190209502451101_" cx="856.4423" cy="1450.422" r="122.4425" gradientTransform="matrix(3.0647 0 0 1.0059 -2017.6168 -658.1754)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#AD2CA2"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</radialGradient>
+			
+				<ellipse style="opacity:0.5;clip-path:url(#SVGID_00000122704299662849004230000006575499651890144177_);fill:url(#SVGID_00000169523855716085795020000000896190209502451101_);" cx="600" cy="792.278" rx="394.181" ry="129.374"/>
+			<g style="clip-path:url(#SVGID_00000122704299662849004230000006575499651890144177_);">
+				<g>
+					<path style="fill:#942394;" d="M2008.511,945.546H-808.511L2.063,605.508h1195.874l0.278,0.117L2008.511,945.546z
+						 M-793.605,942.546h2787.21l-796.272-334.038H2.667L-793.605,942.546z"/>
+				</g>
+				<g>
+					<rect x="-33.991" y="620.759" style="fill:#942394;" width="1267.981" height="3"/>
+				</g>
+				<g>
+					<rect x="-75.056" y="637.987" style="fill:#942394;" width="1350.111" height="3"/>
+				</g>
+				<g>
+					<rect x="-121.81" y="657.6" style="fill:#942394;" width="1443.619" height="3"/>
+				</g>
+				<g>
+					<rect x="-175.521" y="680.131" style="fill:#942394;" width="1551.042" height="3"/>
+				</g>
+				<g>
+					<rect x="-237.869" y="706.286" style="fill:#942394;" width="1675.738" height="3"/>
+				</g>
+				<g>
+					<rect x="-311.118" y="737.015" style="fill:#942394;" width="1822.236" height="3"/>
+				</g>
+				<g>
+					<rect x="-398.402" y="773.63" style="fill:#942394;" width="1996.803" height="3"/>
+				</g>
+				<g>
+					<rect x="-504.18" y="818.005" style="fill:#942394;" width="2208.36" height="3"/>
+				</g>
+				<g>
+					<rect x="-635.029" y="872.896" style="fill:#942394;" width="2470.057" height="3"/>
+				</g>
+				<g>
+					
+						<rect x="-562.351" y="774.027" transform="matrix(0.8855 -0.4646 0.4646 0.8855 -383.1436 -3.896)" style="fill:#942394;" width="725.746" height="3"/>
+				</g>
+				<g>
+					
+						<rect x="-293.705" y="774.027" transform="matrix(0.8196 -0.5729 0.5729 0.8196 -444.2312 140.1115)" style="fill:#942394;" width="588.193" height="3"/>
+				</g>
+				<g>
+					
+						<rect x="-32.587" y="774.027" transform="matrix(0.6901 -0.7237 0.7237 0.6901 -499.1772 385.2288)" style="fill:#942394;" width="465.696" height="3"/>
+				</g>
+				<g>
+					
+						<rect x="213.439" y="774.027" transform="matrix(0.4303 -0.9027 0.9027 0.4303 -472.1042 802.9764)" style="fill:#942394;" width="373.382" height="3"/>
+				</g>
+				<g>
+					<rect x="598.5" y="607.008" style="fill:#942394;" width="3" height="337.038"/>
+				</g>
+				<g>
+					
+						<rect x="798.37" y="588.836" transform="matrix(0.9027 -0.4303 0.4303 0.9027 -255.8901 419.7107)" style="fill:#942394;" width="2.999" height="373.382"/>
+				</g>
+				<g>
+					
+						<rect x="998.238" y="542.679" transform="matrix(0.7237 -0.6901 0.6901 0.7237 -258.9807 904.1579)" style="fill:#942394;" width="3.001" height="465.696"/>
+				</g>
+				<g>
+					
+						<rect x="1198.108" y="481.431" transform="matrix(0.573 -0.8196 0.8196 0.573 -123.3592 1314.2847)" style="fill:#942394;" width="3" height="588.193"/>
+				</g>
+				<g>
+					
+						<rect x="1397.978" y="412.654" transform="matrix(0.4644 -0.8856 0.8856 0.4644 62.731 1654.7816)" style="fill:#942394;" width="2.999" height="725.746"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<defs>
+		
+			<filter id="Adobe_OpacityMaskFilter_00000068660616659562985990000002884159579067963016_" filterUnits="userSpaceOnUse" x="-808.511" y="-145.546" width="2817.023" height="402.246">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	
+		<mask maskUnits="userSpaceOnUse" x="-808.511" y="-145.546" width="2817.023" height="402.246" id="SVGID_00000109746656437016074700000012313444942655757449_">
+		<g style="filter:url(#Adobe_OpacityMaskFilter_00000068660616659562985990000002884159579067963016_);">
+			
+				<linearGradient id="SVGID_00000075144607050620019010000004624176352374021300_" gradientUnits="userSpaceOnUse" x1="600" y1="1344.2009" x2="600" y2="1123.3247" gradientTransform="matrix(-1 0 0 -1 1200 1343.3)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.057" style="stop-color:#E4E4E4"/>
+				<stop  offset="0.1952" style="stop-color:#A9A9A9"/>
+				<stop  offset="0.3331" style="stop-color:#757575"/>
+				<stop  offset="0.4671" style="stop-color:#4B4B4B"/>
+				<stop  offset="0.5967" style="stop-color:#2A2A2A"/>
+				<stop  offset="0.7206" style="stop-color:#131313"/>
+				<stop  offset="0.8364" style="stop-color:#050505"/>
+				<stop  offset="0.936" style="stop-color:#000000"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_00000075144607050620019010000004624176352374021300_);" points="0,0 1200,0 1200,225 0,225 			
+				"/>
+		</g>
+	</mask>
+	<g style="mask:url(#SVGID_00000109746656437016074700000012313444942655757449_);">
+		<g>
+			<defs>
+				
+					<rect id="SVGID_00000056419306337235952090000005709580254849001115_" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 1200 256.7)" width="1200" height="256.7"/>
+			</defs>
+			<clipPath id="SVGID_00000082368838303428462520000002678989237280596897_">
+				<use xlink:href="#SVGID_00000056419306337235952090000005709580254849001115_"  style="overflow:visible;"/>
+			</clipPath>
+			
+				<radialGradient id="SVGID_00000019661326289958678880000016146990572865847697_" cx="856.4423" cy="1990.5354" r="122.4425" gradientTransform="matrix(-3.0647 0 0 -1.0059 3217.6167 2001.4753)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#AD2CA2"/>
+				<stop  offset="1" style="stop-color:#000000"/>
+			</radialGradient>
+			
+				<ellipse style="opacity:0.5;clip-path:url(#SVGID_00000082368838303428462520000002678989237280596897_);fill:url(#SVGID_00000019661326289958678880000016146990572865847697_);" cx="600" cy="7.722" rx="394.181" ry="129.374"/>
+			<g style="clip-path:url(#SVGID_00000082368838303428462520000002678989237280596897_);">
+				<g>
+					<path style="fill:#942394;" d="M-808.511-145.546h2817.023l-810.574,340.038H2.064l-0.278-0.117L-808.511-145.546z
+						 M1993.605-142.546h-2787.21L2.667,191.492h1194.666L1993.605-142.546z"/>
+				</g>
+				<g>
+					<rect x="-33.99" y="176.241" style="fill:#942394;" width="1267.981" height="3"/>
+				</g>
+				<g>
+					<rect x="-75.055" y="159.013" style="fill:#942394;" width="1350.111" height="3"/>
+				</g>
+				<g>
+					<rect x="-121.809" y="139.4" style="fill:#942394;" width="1443.619" height="3"/>
+				</g>
+				<g>
+					<rect x="-175.521" y="116.869" style="fill:#942394;" width="1551.042" height="3"/>
+				</g>
+				<g>
+					<rect x="-237.869" y="90.714" style="fill:#942394;" width="1675.738" height="3"/>
+				</g>
+				<g>
+					<rect x="-311.118" y="59.985" style="fill:#942394;" width="1822.236" height="3"/>
+				</g>
+				<g>
+					<rect x="-398.401" y="23.37" style="fill:#942394;" width="1996.803" height="3"/>
+				</g>
+				<g>
+					<rect x="-504.179" y="-21.005" style="fill:#942394;" width="2208.36" height="3"/>
+				</g>
+				<g>
+					<rect x="-635.028" y="-75.896" style="fill:#942394;" width="2470.057" height="3"/>
+				</g>
+				<g>
+					
+						<rect x="1036.604" y="22.973" transform="matrix(0.8855 -0.4646 0.4646 0.8855 148.8393 652.9952)" style="fill:#942394;" width="725.746" height="3"/>
+				</g>
+				<g>
+					
+						<rect x="905.512" y="22.973" transform="matrix(0.8196 -0.5729 0.5729 0.8196 202.3609 691.6735)" style="fill:#942394;" width="588.193" height="3"/>
+				</g>
+				<g>
+					
+						<rect x="766.891" y="22.973" transform="matrix(0.6901 -0.7237 0.7237 0.6901 292.0684 731.0696)" style="fill:#942394;" width="465.696" height="3"/>
+				</g>
+				<g>
+					
+						<rect x="613.178" y="22.973" transform="matrix(0.4303 -0.9027 0.9027 0.4303 433.5671 735.9592)" style="fill:#942394;" width="373.382" height="3"/>
+				</g>
+				<g>
+					<rect x="598.5" y="-144.046" style="fill:#942394;" width="3" height="337.038"/>
+				</g>
+				<g>
+					
+						<rect x="398.631" y="-162.218" transform="matrix(0.9027 -0.4303 0.4303 0.9027 28.4158 174.5779)" style="fill:#942394;" width="2.999" height="373.382"/>
+				</g>
+				<g>
+					
+						<rect x="198.762" y="-208.375" transform="matrix(0.7237 -0.6901 0.6901 0.7237 38.4382 144.9586)" style="fill:#942394;" width="3.001" height="465.696"/>
+				</g>
+				<g>
+					
+						<rect x="-1.108" y="-269.623" transform="matrix(0.573 -0.8196 0.8196 0.573 -19.8892 10.7713)" style="fill:#942394;" width="3" height="588.193"/>
+				</g>
+				<g>
+					
+						<rect x="-200.977" y="-338.4" transform="matrix(0.4644 -0.8856 0.8856 0.4644 -128.5133 -163.5543)" style="fill:#942394;" width="2.999" height="725.746"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
